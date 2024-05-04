@@ -104,6 +104,7 @@ nav a:hover {
     height: 60px;
     background-color: #FE5100;
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 footer div {
@@ -120,6 +121,13 @@ footer div {
     color: white;
 }
 
+.s1 {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    height: auto;
+    width: 900px;
+}
 
 
 
